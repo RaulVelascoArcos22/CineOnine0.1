@@ -18,7 +18,7 @@
 				<a href="#">Películas</a>
 				<a href="#">Más Recientes</a>
                 <a href="#">Mi lista</a>
-                <a href="#">Login</a>
+                <a href="login.php">Login</a>
 			</nav>
 		</div>
 	</header>
@@ -37,6 +37,5 @@
 	</main>
 	<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>
-    <script src="js/lity.js"></script>
 </body>
 </html>
